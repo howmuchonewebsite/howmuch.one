@@ -1,5 +1,4 @@
-# howmuch.one
-howmuch.one - prices for used devices
+# [howmuch.one](https://howmuch.one/) - prices for used devices
 
 Are you buying or selling a used device and want to know how profitable the deal will be and is the price of the product higher or lower than the market price?
 
